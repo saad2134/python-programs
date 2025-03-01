@@ -1,7 +1,7 @@
 # 🐍 Python Programs
 A repo containing all the beginner python programs that I practiced when I was learning python for the first time.
 
-## Concept Demonstration Programs
+## 📚 Concept Demonstration Programs
 
 1. Printing Statement  
 2. Taking Input  
@@ -17,7 +17,7 @@ A repo containing all the beginner python programs that I practiced when I was l
 12. Object-Oriented Programming  
 13. Exception Handling and Assertions  
 
-## Problems
+## 💡 Problems
 
 - **Basic Arithmetic Operations**  
   - Arithmetic Operations  
@@ -54,6 +54,6 @@ A repo containing all the beginner python programs that I practiced when I was l
 - **Number Manipulations**  
   - Reverse of a Number 
 
-## Endnote
+## ✍️ Endnote
 Thank you for reading!
 Support me on https://buymeacoffee.com/saad1inc
