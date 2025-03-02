@@ -15,7 +15,8 @@ A repo containing all the beginner python programs that I practiced when I was l
 10. Data Structures  
 11. File Handling  
 12. Object-Oriented Programming  
-13. Exception Handling and Assertions  
+13. Exception Handling and Assertions
+14. Magic or Dunder Methods
 
 ## 💡 Problems
 
