@@ -55,6 +55,8 @@ A repo containing all the beginner python programs that I practiced when I was l
 - **Number Manipulations**  
   - Reverse of a Number 
 
+---
+
 ## ✍️ Endnote
-Thank you for reading!
-Support me on https://buymeacoffee.com/saad1inc
+
+<p align="center">⭐ Star this repo if you found it helpful! Thanks for reading.</p>
